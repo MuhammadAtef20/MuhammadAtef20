@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Atef
+- 👋 Hi, I’m Muhammad Atef worked as Back-end Developer with Python(Flask - SQL)
 - 👀 I’m interested in CS & AI
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML field
